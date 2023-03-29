@@ -1,0 +1,65 @@
+body{
+    background-color: #ccc;
+    font-family: sans-serif,arial;
+}
+.pcabeça{
+    background-image: url(../imagens/Cachorro-4.jpg);
+    height: 550px;
+    background-position: 100%;
+    background-position: center right;
+    background-size: cover;
+ }
+ 
+ 
+.pcabeça ul {font-size: 15px; margin: 0 auto;  }
+.pcabeça ul li {display: inline; }
+.pcabeça ul li a {margin: 0 auto; padding-left: 20px; margin-top: 30px; color: black;}
+  
+.hero{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 250px;    
+    
+}
+.hero h1{
+    text-shadow: 4px 3px 2px rgb(63, 62, 62);
+}
+.hero p {
+    text-shadow:4px 3px 9px rgb(63, 62, 62) ;
+    background-color: rgb(134, 127, 127);
+    margin-right: 510px;
+    margin-left: 510px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+main{
+    width: 80%;
+    margin:auto;
+}
+.selecao{
+    background-color: white;
+    margin-top: 15px;
+    padding: 15px;
+   
+    
+}
+.rodape{
+    background-color: rgb(152, 149, 149);
+    height: 50px;
+}
+.rodape p{
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    text-shadow: 3px 3px 3px rgb(38, 37, 37);
+}
+.titulo{
+    font-size: 14px;
+    background-color: rgb(190, 196, 196);
+    background-position: center right;
+    padding-left:10px ;
+    padding-top: 0px;
+    margin-bottom: 5px; 
+    background-size: cover;
+}
